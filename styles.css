@@ -25,3 +25,10 @@ body, a:link, a:visited, a:active{
   border-radius:10px;
   position:absolute;
 }
+.ourDancer {
+
+  animation-duration: 3s;
+  animation-name: slidein;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
